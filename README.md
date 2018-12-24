@@ -6,4 +6,4 @@
 * ප්‍රදාන topick  එක හා ඔබගේ නම ඩාල එක file එකක් හඩල ඒක එතුලට අනිත්ව ඩාන්න plz  plz  plz(ආය කියන්න නම් බැ)
 2. java වල මොක කරන්නත් කලින් relese  note එක කියවල ඉන්න.
 ***
-#  :muscle::muscle:Thank you :muscle::muscle:
+#  :muscle::muscle:Thank you! :muscle::muscle:
