@@ -123,8 +123,6 @@ public class ADMIN extends javax.swing.JFrame {
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setText("© 2018 Team ASTERISK All Rights Reserved");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\USER\\Desktop\\Java POS\\images\\Untitled-10.png")); // NOI18N
-
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
@@ -183,7 +181,6 @@ public class ADMIN extends javax.swing.JFrame {
         jPanel1.add(jLabel9);
         jLabel9.setBounds(490, 50, 360, 50);
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\USER\\Desktop\\Java POS\\images\\goback.png")); // NOI18N
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
