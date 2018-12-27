@@ -108,20 +108,21 @@ public class CHEFF extends javax.swing.JFrame {
         timeLab.setFont(new java.awt.Font("Bauhaus 93", 1, 36)); // NOI18N
         timeLab.setForeground(new java.awt.Color(255, 255, 255));
         timeLab.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        timeLab.setOpaque(true);
 
         dateLab.setFont(new java.awt.Font("Arial", 1, 24)); // NOI18N
         dateLab.setForeground(new java.awt.Color(255, 255, 255));
         dateLab.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        dateLab.setOpaque(true);
 
         dateLab2.setFont(new java.awt.Font("Bauhaus 93", 0, 48)); // NOI18N
         dateLab2.setForeground(new java.awt.Color(255, 255, 255));
         dateLab2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        dateLab2.setOpaque(true);
 
         jLabel5.setFont(new java.awt.Font("Arial", 0, 13)); // NOI18N
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setText("© 2018 Team ASTERISK All Rights Reserved");
-
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\USER\\Desktop\\Java POS\\images\\Untitled-5.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -207,7 +208,6 @@ public class CHEFF extends javax.swing.JFrame {
         jPanel1.add(jPasswordField2);
         jPasswordField2.setBounds(610, 240, 260, 60);
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\USER\\Desktop\\Java POS\\images\\goback.png")); // NOI18N
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
