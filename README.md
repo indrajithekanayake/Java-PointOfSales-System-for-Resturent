@@ -7,4 +7,4 @@ Finally, we would like to express our heartfelt affection to all those people wh
 A stand-alone application that enables “Knuckles Restaurant” to provide an efficient self-service Point of Sales system (POS System). It is designed to be handled by the minimum number of employees. The interaction between the system and the customer has been maximized. Customer can reserve table and order food item using the automated menu. Once the user place an order kitchen gets the order details. When the order is ready the user will be notified with an email. 
 
 The orders will be settled using First in First out(FIFO) basis.
-
+***
