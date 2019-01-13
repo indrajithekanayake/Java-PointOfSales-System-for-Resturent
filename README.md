@@ -30,4 +30,6 @@ The only possible delay that occurs is the waiting time till the kitchen fulfils
 ![](githubReedmeImages/adminhome.png)
 ![](githubReedmeImages/cheff.png)
 ![](githubReedmeImages/cheffhome.png)
-
+![](githubReedmeImages/payment.png)
+![](githubReedmeImages/recipt.png)
+![](githubReedmeImages/takaway.png)
