@@ -8,3 +8,17 @@ A stand-alone application that enables “Knuckles Restaurant” to provide an e
 
 The orders will be settled using First in First out(FIFO) basis.
 ***
+##  How our system addresses the drawbacks of a conventional system
+Many of the current POS systems used in Sri Lanka today need operators. This requires lot of labour which is costly. In order to address this, we have created a POS system that enables self-service.
+
+This system addresses many flows in the manually operating systems.
+
+An automated POS system like what we have developed enables customers to quickly order and make payments without having to wait for a cashier to clear up.
+
+In a conventional system if the cashier is crowded the customers have to wait in line to place the order or pay the bills. This is mainly because of having to pay for operators, restaurants usually employees only a couple of employees. In our system since there is no need for labour to operate the system, a restaurant can easily put multiple computers (with touch screen interfaces) so that even in busy hours’ customers won’t have to stay in a line.
+
+Unlike in a conventional system where the customers have to wait till a waiter attends to them, which could take time if the restaurant is busy, in our system since everything (ordering and paying) is done by the customer himself, the above time delay is avoided.
+
+The only possible delay that occurs is the waiting time till the kitchen fulfils the order. Because of the self-serviceability the restaurant gets the chance to prepare the meals real time and provide customers with fresh new foods.
+***
+![](F:\year 02\SEM1\UNI\Final projects\java final\githubReedmeImages)
