@@ -21,4 +21,4 @@ Unlike in a conventional system where the customers have to wait till a waiter a
 
 The only possible delay that occurs is the waiting time till the kitchen fulfils the order. Because of the self-serviceability the restaurant gets the chance to prepare the meals real time and provide customers with fresh new foods.
 ***
-![](F:\year 02\SEM1\UNI\Final projects\java final\githubReedmeImages)
+![](githubReedmeImages/usecase.jpg)
