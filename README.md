@@ -25,6 +25,9 @@ The only possible delay that occurs is the waiting time till the kitchen fulfils
 ***
 ## Screen shots
 ![](githubReedmeImages/home.png)
-![](githubReedmeImages/signup.png)
+![](githubReedmeImages/signin.png)
 ![](githubReedmeImages/admin.png)
-![](githubReedmeImages/cheff)
+![](githubReedmeImages/adminhome.png)
+![](githubReedmeImages/cheff.png)
+![](githubReedmeImages/cheffhome.png)
+
