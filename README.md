@@ -1,4 +1,5 @@
-# Give us a star if this usefull :star:  :star:  :star:
+# <a href="https://www.linkedin.com/in/indrajith-ekanayake/">Contat me:</a>
+<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>
 
 A stand-alone application that enables “Knuckles Restaurant” to provide an efficient self-service Point of Sales system (POS System). It is designed to be handled by the minimum number of employees. The interaction between the system and the customer has been maximized. Customer can reserve table and order food item using the automated menu. Once the user place an order kitchen gets the order details. When the order is ready the user will be notified with an email. 
 
@@ -29,3 +30,5 @@ The only possible delay that occurs is the waiting time till the kitchen fulfils
 ![](githubReedmeImages/payment.png)
 ![](githubReedmeImages/recipt.png)
 ![](githubReedmeImages/takaway.png)
+
+# Give us a star if this usefull :star:  :star:  :star:
